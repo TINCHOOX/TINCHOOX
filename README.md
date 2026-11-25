@@ -32,8 +32,7 @@
 ## 📫 Contacto
  
 <!-- Reemplazá estos links por los tuyos -->
-- 💼 LinkedIn: [tu-usuario](https://linkedin.com/in/tu-usuario)
-- 📧 Email: tu-correo@ejemplo.com
+- 📧 correo: massi-nqn@outlook.com
 ---
  
 ⭐️ ¡Gracias por pasar por mi perfil!
