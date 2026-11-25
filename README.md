@@ -1,9 +1,9 @@
 # ¡Hola! 👋 Soy Tincho
  
-🎓 Estudiante de la **Tecnicatura en Desarrollo Web** en la **U.N.C.O** (Universidad Nacional del Comahue)
-🎂 22 años
-🎯 Perfil orientado principalmente al **Front-End**
-🎨 Me gusta unir el diseño con el código para crear interfaces atractivas y funcionales
+🎓 Estudiante de la **Tecnicatura en Desarrollo Web** en la **U.N.C.O** (Universidad Nacional del Comahue)/
+Tengo 22 años/
+Perfil orientado principalmente al **Front-End**/
+Me gusta unir el diseño con el código para crear interfaces atractivas y funcionales
  
 ---
  
