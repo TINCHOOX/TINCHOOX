@@ -21,11 +21,11 @@ Me gusta unir el diseño con el código para crear interfaces atractivas y funci
 ## 🎨 Herramientas de diseño
  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Lightroom](https://img.shields.io/badge/-Lightroom-black?style=flat-square&logo=adobelightroom)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobeillustrator)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-black?style=flat-square&logo=inkscape)
 ![GIMP](https://img.shields.io/badge/-GIMP-black?style=flat-square&logo=gimp)
-![Lightroom](https://img.shields.io/badge/-Lightroom-black?style=flat-square&logo=adobelightroom)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
  
 ---
  
